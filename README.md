@@ -8,3 +8,7 @@ This program helps you to create and edit command aliases on Linux (ubuntu based
 4. type 'python3 [name_of_python-file] (example: 'python3 command_alias-editor_v1.0'
 5. The program should be executed. Follow all further instructions shown in the terminal
 6. Dont forget to execute 'source ~/.bashrc' at the end (when the program tells you to)
+
+# Possible Updates
+- editor for existing aliases
+- graphical user interface (GUI) for the program
