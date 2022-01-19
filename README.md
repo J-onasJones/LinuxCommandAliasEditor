@@ -1,5 +1,5 @@
 # LinuxCommandAliasEditor
-This program helps you to create and edit command aliases on Linux (ubuntu based distros)
+This program helps you to create and edit command aliases on Linux and MacOS
 
 # How to use
 1. Download the most recent verson of the python file
