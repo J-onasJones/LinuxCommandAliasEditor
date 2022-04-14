@@ -4,6 +4,7 @@ This program helps you to create and edit command aliases on Linux and MacOS (wi
 # How to use
 ### Windows and Linux
 1. Download the executable for your OS (clearly labeled) and execute it.
+2. Run 'source ~/.bashrc' in the terminal
 
 ### MacOS (manually) and Windows and Linux (alternative to above)
 1. Download the most recent verson of the python file
