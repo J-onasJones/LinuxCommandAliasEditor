@@ -2,7 +2,7 @@ VERSION = "2.0"
 
 def main():
     try:
-        from os import system, mkdir
+        from os import system
         import os.path
 
         # STEP ONE save directory for the Shell Script Files
