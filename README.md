@@ -17,5 +17,3 @@ This program helps you to create and edit command aliases on Linux and MacOS (wi
 
 ### Why do I have to manualy execute 'source ~/.bashrc'?
 The reason that this can't be done by the program itself is that it wouldn't be applied to the main shell but only for the runtime of the program itself. After the program exits, all changes will be reverted. 
-
-This problem could technically be solved by using subprocesses but ffs I'm not in the mood for doing that. It's some work which I don't wanna do
